@@ -1,7 +1,7 @@
 - 👋 Hey all, I’m @Zoocko42!
-- 👀 I’m interested in full-stack developing, game development, TTRPG apps.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and I am about to start the Georgia Tech coding bootcamp.
-- 💞️ I’m not currently looking for collaborations, but I'm sure that's going to change before too terribly long.
+- 👀 I’m interested in full-stack developing, game development, and front-end site creation.
+- 🌱 I’m currently going through the Georgia-Tech Full Stack Flex coding bootcamp, currently learning how to use MongoDB compass.
+- 💞️ Happy to help with collaborations!
 - 📫 How to reach me ...
 
 <!---
