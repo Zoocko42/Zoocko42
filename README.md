@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack developing, game development, and front-end site creation.
 - 🌱 Graduate of the Georgia-Tech Full Stack Flex coding bootcamp, currently learning how to use MongoDB compass.
 - 💞️ Happy to help with collaborations!
-- 📫 How to reach me ...
+- 📫 You can reach me at zachariahdschneider@gmail.com!
 
 <!---
 Zoocko42/Zoocko42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
